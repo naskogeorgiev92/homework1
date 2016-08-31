@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Homework.27.08.2016</string>
+    <string name="exercise_1">Exercise 1</string>
+    <string name="exercise_2">Exercise 2</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="california">California</string>
+    <string name="ohio">Ohio</string>
+    <string name="texas">Texas</string>
+    <string name="button_california_id">button_california</string>
+    <string name="button_ohio_id">button_ohio</string>
+    <string name="button_texas_id">button_texas</string>
+</resources>
